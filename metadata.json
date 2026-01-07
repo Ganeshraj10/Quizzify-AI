@@ -1,0 +1,7 @@
+{
+  "name": "Quizzify AI",
+  "description": "A modern AI-powered quiz platform for students and teachers with real-time analytics, gamification, and intelligent quiz generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
